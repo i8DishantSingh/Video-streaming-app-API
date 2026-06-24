@@ -1,23 +1,22 @@
-# Video-streaming-webapp🎬
+# Video-streaming-app-API🎬
 
 ## Overview
 
-Ths purpose of this project is learn and understand MERN-tech stack, emphasising on JWT user-authentication, backend fundametals and seamless frontend.
+Ths purpose of this project is learn and understand javaScript backend technologies, emphasising on backend fundametals, authentication, code organization and architectural patterns.
 
 ## Features
 
 - User authentication (JWT/session)
 - Movie browsing and search
-- Responsive UI
 - Error handling and logging
 - Future scalability roadmap
 
 ## Tech Stack
 
-- Frontend: React / CSS
-- Backend: Node.js / Express
+- Backend: Node.js / Express.js
+- utilities: mongoose, dotenv, jwt
 - Database: MongoDB
-- Deployment: Docker / Kubernetes (planned)
+
 
 ## Installation
 
@@ -28,7 +27,6 @@ Step-by-step guide to clone, install dependencies, and run locally.
 - Stateless backend for horizontal scaling
 - Database replication/sharding
 - CDN for media delivery
-- Caching layer (Redis)
 
 ## License
 
